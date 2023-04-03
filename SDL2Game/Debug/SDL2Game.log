@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\commonfunc.h(59): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\commonfunc.h(71): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\geometric.h(15): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\geometric.h(25): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\bossobject.h(14): warning C4005: 'PLAYER_SPEED': macro redefinition
+  c:\users\x1 gen 9\downloads\sdl2game\sdl2game\mainobject.h(12): note: see previous definition of 'PLAYER_SPEED'
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\bossobject.h(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\bossobject.h(25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(119): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(121): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(122): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(139): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(179): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(187): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(296): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(297): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(337): warning C4018: '<': signed/unsigned mismatch
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(342): warning C4018: '<': signed/unsigned mismatch
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(363): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(364): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(411): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(418): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\x1 gen 9\downloads\sdl2game\sdl2game\main.cpp(444): warning C4018: '<': signed/unsigned mismatch
+  SDL2Game.vcxproj -> C:\Users\X1 gen 9\Downloads\SDL2Game\Debug\SDL2Game.exe
+  SDL2Game.vcxproj -> C:\Users\X1 gen 9\Downloads\SDL2Game\Debug\SDL2Game.pdb (Full PDB)
