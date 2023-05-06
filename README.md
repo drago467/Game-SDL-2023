@@ -14,9 +14,10 @@
 - (https://github.com/playboizzzzzz/Game-SDL-2023/blob/main/SDL2Game/img/background.png)
 4. Hướng dẫn cài đặt
 - Cài đặt [Visual Studio Code 2015] (https://tinhte.vn/thread/downloadvisual-studio-2015-full-cai-dat-chi-tiet.3440818/)
-- Tải các thư viện hỗ trợ SDL: https://github.com/libsdl-org/SDL_image
-                               https://github.com/libsdl-org/SDL_mixer
-                               https://github.com/libsdl-org/SDL_ttf
+- Tải các thư viện hỗ trợ SDL:
+-  https://github.com/libsdl-org/SDL_image
+-  https://github.com/libsdl-org/SDL_mixer
+-  https://github.com/libsdl-org/SDL_ttf
 5. Cấu trúc của game:
 
 
