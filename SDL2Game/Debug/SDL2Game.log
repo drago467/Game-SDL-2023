@@ -1,2 +1,5 @@
-﻿  SDL2Game.vcxproj -> C:\Users\X1 gen 9\Downloads\SDL2Game\Game-SDL-2023\Debug\SDL2Game.exe
+﻿  BulletObject.cpp
+c:\users\x1 gen 9\downloads\sdl2game\game-sdl-2023\sdl2game\commonfunc.h(59): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+c:\users\x1 gen 9\downloads\sdl2game\game-sdl-2023\sdl2game\commonfunc.h(71): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  SDL2Game.vcxproj -> C:\Users\X1 gen 9\Downloads\SDL2Game\Game-SDL-2023\Debug\SDL2Game.exe
   SDL2Game.vcxproj -> C:\Users\X1 gen 9\Downloads\SDL2Game\Game-SDL-2023\Debug\SDL2Game.pdb (Full PDB)
