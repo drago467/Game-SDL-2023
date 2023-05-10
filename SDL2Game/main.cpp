@@ -418,6 +418,7 @@ int main(int argc, char* argv[])
         money_game.RenderText(g_screen, SCREEN_WIDTH*0.5 - 250, 15);
 
         //Show Boss
+		/*
         int val = MAX_MAP_X*TILE_SIZE - (map_data.start_x_ + p_player.GetRect().x);
         if (val <= SCREEN_WIDTH)
         {
@@ -452,6 +453,7 @@ int main(int argc, char* argv[])
     }
 
     threats_list.clear();
+	*/
 
     close();
 	return 0;
