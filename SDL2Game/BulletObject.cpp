@@ -58,6 +58,7 @@ void BulletObject::HandleMove(const int& x_border, const int& y_border)
             is_move_ = false;
         }
     }
+	/*
     else if (bullet_dir_ == DIR_UP_LEFT)
     {
         rect_.x -= x_val_;
@@ -72,6 +73,7 @@ void BulletObject::HandleMove(const int& x_border, const int& y_border)
             is_move_ = false;
         }
     }
+	*/
     else if (bullet_dir_ == DIR_UP_RIGHT)
     {
         rect_.x += x_val_;
