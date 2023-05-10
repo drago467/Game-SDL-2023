@@ -17,7 +17,7 @@ BossObject::BossObject()
     map_y_ = 0;
 }
 
-BossObject::~BossObject()
+BossObject:: ~BossObject()
 {
 
 }
