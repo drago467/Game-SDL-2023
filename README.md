@@ -39,7 +39,7 @@
 - Tạo thêm các quái vật vs các chức năng khác nhau.
 - Thêm các lựa chọn súng và trang phục cho nhân vật.
 7. Lời cảm ơn
-- Em xin chân thành cảm ơn các thầy đã hô trợ em hoàn thành game ạ.
+- Em xin chân thành cảm ơn các thầy đã hô trợ em hoàn thành game ạ. <3 <3
 
 
 
