@@ -198,7 +198,7 @@ int main(int argc, char* argv[])
     exp_main.set_clip();
     if (!mRet) return -1;
 
-    int num_die = 0;
+    int num_die = 0;  
 
     //Time text
     TextObject time_game;
@@ -305,7 +305,7 @@ int main(int argc, char* argv[])
                     Mix_PlayChannel(-1, g_sound_ex_main, 0);
 
                     num_die++;
-                    if (num_die <= 3)
+                    if (num_die < 3)
                     {
                         p_player.SetRect(0, 0);
                         p_player.set_comeback_time(60);
