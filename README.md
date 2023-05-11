@@ -34,11 +34,12 @@
 
 - Màn hình chơi
 <img width="960" alt="image" src="https://github.com/drago467/Game-SDL-2023/assets/125422941/a0a835bd-9844-4510-b365-5a820955353a">
+
 6. Cải tiến game.
 - Tạo thêm các quái vật vs các chức năng khác nhau.
 - Thêm các lựa chọn súng và trang phục cho nhân vật.
 7. Lời cảm ơn
- Em xin chân thành cảm ơn các thầy đã cùng hô trợ em hoàn thành game ạ.
+- Em xin chân thành cảm ơn các thầy đã hô trợ em hoàn thành game ạ.
 
 
 
